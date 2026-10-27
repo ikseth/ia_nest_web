@@ -11,6 +11,10 @@ registro) viven en `ia_nest_meta` y no se repiten aqui. Lee antes:
 4. `meta ADR 0011` y `0013` (el borde va delante; Open WebUI mientras tanto)
 5. `README.md` de este repo
 
+Orden entre capas: la hoja de ruta del ente, en `meta docs/plan/HOJA_DE_RUTA.md`
+(meta ADR 0014). Los hilos de un hito salen de meta; el plan de este repo lleva
+solo su detalle interno.
+
 ## Reglas propias de este repo
 
 - **La web presenta; no piensa por las capas.** Muestra lo que exponen sus
